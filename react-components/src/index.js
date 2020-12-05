@@ -33,6 +33,6 @@ var Department = (deptInfo) => {
 }
 
 
-const element = <DisplayEmployeeInfo id="101" name="Pratiksha" location="Manali" salary="10L" deptname="AI" headname="Elon Musk"></DisplayEmployeeInfo>
+const element = <DisplayEmployeeInfo id="101" name="Pratiksha Garode" location="Manali" salary="10L" deptname="AI" headname="Elon Musk"></DisplayEmployeeInfo>
 
 ReactDOM.render(element, document.getElementById("root"))
